@@ -1,7 +1,7 @@
 # Konfigurasi VLAN dan Trunking - Packet Tracer
 
 ## Video Tutorial
-[Link YouTube](https://youtu.be/BAkzwY0IvC8)
+[Link YouTube](https://youtu.be/p6oph-45Bsk)
 
 ## Identitas
 
